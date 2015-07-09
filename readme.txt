@@ -65,6 +65,7 @@ Options:
 [wpb_menu_accordion menu="Menu Name"]
 
 options: 
+
 * menu: The menu that is desired; accepts (matching in order) id, slug, name
 * theme_location: menu can be asign by theme location ( optional ).
 
