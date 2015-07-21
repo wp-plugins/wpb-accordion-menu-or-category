@@ -16,13 +16,13 @@ WPB Accordion Menu or Category Plugin allow you to show WordPress menu or any ca
 WPB Accordion Menu or Category Plugin allow you to show WordPress menu or any category accordion with submenu / subcategory support. Highly optimized for WooCommerce or any other ecommerce categories. 
 Nice animation effects. Responsive and modern flat design.
 
->[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)
+>[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](https://wpbean.com/product/wpb-accordion-menu-category-pro/)
 
 ### Plugin Features
 
 * Category accordion.
 * Custom taxonomy support.
-* WooCommerce or any other ecommerce plugin compitable.
+* WooCommerce or any other ecommerce plugin compatible.
 * Menu accordion.
 * Multiple menu accordion support.
 * Shortcode system, can be use anywhere ( widget, page or post ).
@@ -31,6 +31,14 @@ Nice animation effects. Responsive and modern flat design.
 * Easy to use.
 * Developer friendly & easy to customize.
 
+
+Pro Version Features
+
+* Icon picker both for menu & categories.
+* Two different widget for menu & category accordion. Categories / tags or any custom taxonomy items exclude form widget.
+* Feature for choose any menu or theme location form menu widget. 
+* Two different predefined theme or custom colors form settings.  
+* Easy to use, light weight and many more.
 
 
 == Installation ==
