@@ -18,6 +18,10 @@ Nice animation effects. Responsive and modern flat design.
 
 >[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](https://wpbean.com/product/wpb-accordion-menu-category-pro/)
 
+### Video Documentation:
+
+https://www.youtube.com/watch?v=K3sjZeHHbK4&feature=youtu.be
+
 ### Plugin Features
 
 * Category accordion.
