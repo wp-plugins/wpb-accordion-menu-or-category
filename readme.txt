@@ -32,7 +32,7 @@ Nice animation effects. Responsive and modern flat design.
 * Developer friendly & easy to customize.
 
 
-Pro Version Features
+### Pro Version Features
 
 * Icon picker both for menu & categories.
 * Two different widget for menu & category accordion. Categories / tags or any custom taxonomy items exclude form widget.
