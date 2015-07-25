@@ -1,6 +1,6 @@
 === WPB Accordion Menu or Category ===
 Contributors: wpbean
-Tags: wordpress accordion, accordion menu wordpress, wordpress accordion menu plugin, accordion menu wordpress plugin, wordpress jquery accordion, wordpress category accordion, category accordion, woocommerce category accordion, ecommerce category accordion, wordpress collapse categories, Collapsing Categories List, Collapsing Categories, WooCommerce Collapsing Categories
+Tags: wordpress accordion, wordpress accordion plugin, accordion wordpress, accordion plugin wordpress, collapsible menu jquery, accordion wordpress plugin, accordion widget wordpress, jquery menu accordion, accordion jquery menu, jquery sidebar menu, accordion menu wordpress, wordpress accordion menu plugin, accordion menu wordpress plugin, wordpress jquery accordion, wordpress category accordion, category accordion, woocommerce category accordion, ecommerce category accordion, wordpress collapse categories, Collapsing Categories List, Collapsing Categories, WooCommerce Collapsing Categories
 Requires at least: 3.6
 Tested up to: 4.1.2
 Stable tag: trunk
@@ -11,10 +11,8 @@ WPB Accordion Menu or Category Plugin allow you to show WordPress menu or any ca
 
 == Description ==
 
-### WPB Accordion Menu or Category by http://wpbean.com
 
-WPB Accordion Menu or Category Plugin allow you to show WordPress menu or any category accordion with submenu / subcategory support. Highly optimized for WooCommerce or any other ecommerce categories. 
-Nice animation effects. Responsive and modern flat design.
+WPB Accordion Menu or Category is a vertical accordion menu plugin. It allow you to show WordPress menu or any category accordion with submenu / subcategory support. It has icon picker support both for menu and category. So you can setup icons in accordion easily. Enable disable auto closing previously open accordion etc. Highly optimized for WooCommerce or any other ecommerce categories. Nice animation effects. Responsive and modern flat design.
 
 >[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](https://wpbean.com/product/wpb-accordion-menu-category-pro/)
 
