@@ -25,6 +25,7 @@ add_action('init', 'wpb_wmca_jquery');
 
 function wpb_wmca_adding_scripts() {
 	if ( !is_admin() ) {
+		wp_enqueue_script('wpb_wmca_jquery_cookie', plugins_url('assets/js/jquery.cookie.js', __FILE__),'','1.4.1', true);
 		wp_enqueue_script('wpb_wmca_accordion_script', plugins_url('assets/js/jquery.navgoco.min.js', __FILE__),'','1.0', true);
 	}
 }
