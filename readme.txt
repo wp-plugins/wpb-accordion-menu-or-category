@@ -14,7 +14,7 @@ WPB Accordion Menu or Category Plugin allow you to show WordPress menu or any ca
 
 WPB Accordion Menu or Category is a vertical accordion menu plugin. It allow you to show WordPress menu or any category accordion with submenu / subcategory support. It has icon picker support both for menu and category. So you can setup icons in accordion easily. Enable disable auto closing previously open accordion etc. Highly optimized for WooCommerce or any other ecommerce categories. Nice animation effects. Responsive and modern flat design.
 
->[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](https://wpbean.com/product/wpb-accordion-menu-category-pro/)
+>[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=103)  |  [Support](http://wpbean.com/support/)  |  [Buy PRO Version](https://wpbean.com/product/wpb-accordion-menu-category-pro/)  |  [Screenshots](https://wordpress.org/plugins/wpb-accordion-menu-or-category/screenshots/)  |  [Documentation](https://wordpress.org/plugins/wpb-accordion-menu-or-category/installation/)
 
 ### Video Documentation:
 
@@ -91,6 +91,7 @@ You need to change little bit css code for that.
 == Screenshots ==
 1. WPB Accordion Menu or Category in action.
 2. WPB Accordion Menu or Category collapsing.
+3. Custom widget ( Pro version only ).
 
 
 
